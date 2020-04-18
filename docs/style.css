@@ -17,6 +17,7 @@ body{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
+    justify-content: center;
     color: #1a1818e5;
 }
 
