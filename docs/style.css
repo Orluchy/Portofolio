@@ -164,6 +164,11 @@ h3{
     width: 95%;
 }
 
+
+.contact .main-form textarea:focus {
+    outline: none;
+ }
+
 #tosend{
     color: #c0b994d7;
     background-color: #47453d;
