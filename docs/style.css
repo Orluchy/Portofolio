@@ -186,13 +186,18 @@ h3{
     cursor: pointer;
 }
 
+footer {
+   position: fixed;
+   justify-content: center;
+}
+
 .footer{
     display: flex;
-    align-items: end;
-    margin-left:20%;
-    margin-right: 30%;
+    align-items: center;
+    /* margin-left:20%;
+    margin-right: 30%; */
     font-size: 20px;
-    position:fixed
+
 }
 
 @media (max-width: 450px) {
